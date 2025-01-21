@@ -92,4 +92,4 @@ We welcome contributions from the community to enhance the functionality of Crow
 
 ## License
 
-Crowd-Nation is open source and licensed under the MIT License.
+.
